@@ -133,7 +133,7 @@ inflections. Here's a list of tags
 
 
 
-More information can be found at [DEMorphy documentation](https://demorphy.readthedocs.io).
+More information can be found at [DEMorphy documentation](https://github.com/DuyguA/DEMorphy).
 
 ## License
 
