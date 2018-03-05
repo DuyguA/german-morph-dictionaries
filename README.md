@@ -26,7 +26,7 @@ possible analysis each line:
     
 ## Companion
 
-[DEMorphy](https://github.com/DuyguA/demorphy), the German morphological 
+[DEMorphy](https://github.com/DuyguA/DEMorphy), the German morphological 
 analyzer is based on compactified form of German Morphological Dictionary. 
 
 Links:
