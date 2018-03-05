@@ -31,7 +31,7 @@ analyzer is based on compactified form of German Morphological Dictionary.
 
 Links:
 
-* [PDF]()
+* [PDF](https://arxiv.org/abs/1803.00902)
 * [Short Survey on German 2-Level Morphology]()
 * [Possible usages of DEMorphy in NLP projects]()
 
